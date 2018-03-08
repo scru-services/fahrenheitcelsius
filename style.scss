@@ -1,0 +1,6 @@
+// import scru style.scss
+@import '../../scss/style.scss';
+
+.result-container {
+	@extend %result-spacing;
+}
